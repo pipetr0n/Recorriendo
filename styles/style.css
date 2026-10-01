@@ -40,13 +40,9 @@ h1 {
 
 img {
 display: block;
-  margin:0 auto;
+  margin: 0 auto;
   }
 
-img {
-  max-width: 100%; /* La imagen nunca será más ancha que su contenedor */
-  height: auto;    /* Mantiene la proporción original de la imagen */
-  display: block;  
-}
+
 
 
