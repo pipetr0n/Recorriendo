@@ -38,7 +38,10 @@ h1 {
   text-shadow: 3px 3px 1px black;
 }
 
-
+img {
+display: block;
+  margin:0 auto;
+  }
 
 img {
   max-width: 100%; /* La imagen nunca será más ancha que su contenedor */
