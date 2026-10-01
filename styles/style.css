@@ -38,12 +38,12 @@ h1 {
   text-shadow: 3px 3px 1px black;
 }
 
+
+
 img {
-  display: block;
-  margin: 0 auto;
+  max-width: 100%; /* La imagen nunca será más ancha que su contenedor */
+  height: auto;    /* Mantiene la proporción original de la imagen */
+  display: block;  
 }
 
-alt {
-display: block;
-margin: 0 auto;
-  }
+
