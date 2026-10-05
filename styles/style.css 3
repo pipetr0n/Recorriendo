@@ -1,6 +1,8 @@
 html {
   font-size: 10px;
-  font-family: ₜyₚₑ ₛₒₘₑₜₕᵢₙg ₜₒ ₛₜₐᵣₜ;
+  font-family:"Babylonica", cursive;
+  font-weight: 400;
+  font-style: normal;;
 }
 
 h1 {
