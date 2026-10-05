@@ -1,0 +1,38 @@
+html {
+  font-size: 10px;
+  font-family: ₜyₚₑ ₛₒₘₑₜₕᵢₙg ₜₒ ₛₜₐᵣₜ;
+}
+
+h1 {
+  font-size: 45px;
+  text-align: center;
+}
+
+h2 {
+  font-size: 33px;
+  text-align: center;
+}
+
+p, li {
+  font-size: 13px;
+  line-height: 3;
+  letter-spacing: 2px;
+}
+
+html {
+  background-color: #4D1100;
+}
+
+body {
+  width: 300px;
+  margin: 0 auto;
+  background-color: #8A6060;
+  padding: 0 20px 20px 20px;
+  border: 15px solid black;
+}
+
+h1 {
+  margin: 0;
+  padding: 20px 0;
+  color: #FF9E9E;
+  text-shadow: 3px 3px 1px black;
