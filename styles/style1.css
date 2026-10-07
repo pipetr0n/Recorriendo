@@ -38,3 +38,8 @@ h1 {
   padding: 20px 0;
   color: #FF9E9E;
   text-shadow: 3px 3px 1px black;
+
+  img {
+  width: 300px;
+  height: auto; 
+
