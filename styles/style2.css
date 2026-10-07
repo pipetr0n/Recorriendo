@@ -1,7 +1,14 @@
+
+body {
+ 
+  background-image: url('ezgif.com-video-to-gif-converter.gif');
+  
+}
+
 html {
+  
   font-size: 10px;
   font-family: 'Quantico', sans-serif;
-  background-image: url('ezgif.com-video-to-gif-converter.gif');
 }
 
 h1 {
