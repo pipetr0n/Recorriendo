@@ -6,9 +6,13 @@ body {
 }
 
 html {
-  
-  font-size: 10px;
-  font-family: 'Quantico', sans-serif;
+ 
+  font-family: "Over the Rainbow", cursive;
+  font-weight: 400;
+  font-style: normal;
+  color: # F7F2DC;
+}
+
 }
 
 h1 {
