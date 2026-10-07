@@ -1,0 +1,22 @@
+body {
+  font-family: "Coral Pixels", serif;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+  background-color: #beccbe;
+
+    animation-name :cambioColor;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+
+}
+
+@keyframes cambioColor {
+
+0% {background-color: aliceblue;}
+25% {background-color: #d1c8de;}
+50% { background-color: aquamarine;}
+75% {background-color: bisque;}
+1000%{background-color: beige;}
+    
+}
