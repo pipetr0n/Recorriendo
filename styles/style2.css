@@ -1,7 +1,7 @@
 
 body {
  
-  background-image: url('ezgif.com-video-to-gif-converter.gif');
+  background-image: url('./images/ezgif.com-video-to-gif-converter.gif');
   
 }
 
@@ -10,7 +10,7 @@ html {
   font-family: "Over the Rainbow", cursive;
   font-weight: 400;
   font-style: normal;
-  color: # F7F2DC;
+  color: # FEFFE5;
 }
 
 }
@@ -23,13 +23,13 @@ h1 {
 h2 {
   font-size: 30px;
   text-align: center;
-  color: # F7F2DC;
+  color: # 7F2DC;
 }
 
 p, li {
   margin: 0;
   padding: 20px 0;
-  color: # F7F2DC;
+  color: #F7F2DC;
   text-shadow: 3px 3px 1px black;
 }
 
