@@ -1,6 +1,7 @@
 html {
   font-size: 10px;
   font-family: 'Quantico', sans-serif;
+  background-image: url('ezgif.com-video-to-gif-converter.gif');
 }
 
 h1 {
@@ -21,10 +22,6 @@ p, li {
   text-shadow: 3px 3px 1px black;
 }
 
-body {
-  background-image: url('ezgif.com-video-to-gif-converter.gif');
-  
-}
 
  
 
