@@ -20,16 +20,11 @@ p, li {
 }
 
 html {
-  background-color: #B04530;
+  background-image: url('ezgif.com-video-to-gif-converter.gif');
 }
 
 body {
-  width: 600px;
-  margin: 0 auto;
-  background-color: #FFDC00;
-  padding: 0 20px 20px 20px;
-  border: 5px solid black;
-}
+ 
 
 h1 {
   margin: 0;
