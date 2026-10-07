@@ -11,18 +11,19 @@ h1 {
 h2 {
   font-size: 30px;
   text-align: center;
-  color: # FFF0E5;
+  color: # F7F2DC;
 }
 
 p, li {
   margin: 0;
   padding: 20px 0;
-  color: # FFF0E5;
+  color: # F7F2DC;
   text-shadow: 3px 3px 1px black;
 }
 
 body {
   background-image: url('ezgif.com-video-to-gif-converter.gif');
+  
 }
 
  
@@ -30,7 +31,7 @@ body {
 h1 {
   margin: 0;
   padding: 20px 0;
-  color: # FFF0E5;
+  color: # F7F2DC;
   text-shadow: 3px 3px 1px black;
 }
 
