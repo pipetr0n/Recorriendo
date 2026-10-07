@@ -11,25 +11,26 @@ h1 {
 h2 {
   font-size: 30px;
   text-align: center;
+  color: # FFF0E5;
 }
 
 p, li {
-  font-size: 16px;
-  line-height: 2;
-  letter-spacing: 1px;
-}
-
-html {
-  background-image: url('ezgif.com-video-to-gif-converter.gif');
+  margin: 0;
+  padding: 20px 0;
+  color: # FFF0E5;
+  text-shadow: 3px 3px 1px black;
 }
 
 body {
+  background-image: url('ezgif.com-video-to-gif-converter.gif');
+}
+
  
 
 h1 {
   margin: 0;
   padding: 20px 0;
-  color: # #FFDC00;
+  color: # FFF0E5;
   text-shadow: 3px 3px 1px black;
 }
 
