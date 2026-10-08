@@ -1,4 +1,5 @@
-Recorriendo
+<h1> Recorriendo </h1>
+
 Es un póco dificíl explicar lo mucho que me ha gustado y lo mucho que me ha costado hacer esta pagina. 
 No fuí a la clase de hace dos semanas y estaba muy perdido. Trate de trabajar en mi casa y no cree un code space, 
 por qué en las instrucciones que habían puesto para una ctividad en clase no lo hacian.
