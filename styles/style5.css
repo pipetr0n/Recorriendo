@@ -15,11 +15,12 @@ h1 {
 h2 {
   font-size: 33px;
   text-align: center;
+  text-shadow: 3px 3px 1px black
 }
 
 p {
-  font-size: 14px;
-
+  font-size: 20px;
+text-align: center;
   letter-spacing: 2px;
 }
 
